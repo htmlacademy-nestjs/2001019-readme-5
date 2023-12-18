@@ -16,7 +16,6 @@
     "baseUrl": ".",
     "paths": {
       "@project/helpers": ["shared/helpers/src/index.ts"],
-      "@project/shared-my-library": ["shared/my-library/src/index.ts"],
       "@project/types": ["shared/app/types/src/index.ts"]
     }
   },
